@@ -6,4 +6,4 @@ This is the assignment 2 of Data Science with Python.
 4) Data exploration
 5) Data modeling
 
-### Using DecisionTree and KNN model, but don't test the model accuarcy
+Using DecisionTree and KNN model, but don't test the model accuarcy
